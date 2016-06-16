@@ -1,0 +1,78 @@
+#page {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	min-height: 100%;
+    background: #EEE;
+    margin-right: auto; margin-left: auto;
+	height: 800px;
+	width: 900px;
+
+}
+
+fieldset {
+	background: yellow;
+}
+
+p.title1,p.linktext {
+	foat : left;
+}
+
+img.logo {
+	float: left;
+	height: 50px;
+	width: 50px;
+}
+
+header { 
+	background: #CC9900;
+	height: 75px;
+
+}
+
+header #menu {
+	float: left;
+	background: #ccc;
+	height: 50px;
+	width: 50px;	
+}
+
+header h1 {
+
+}
+
+
+section.section1
+{
+	background : green;
+	height: 350px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+form {
+	
+	
+}

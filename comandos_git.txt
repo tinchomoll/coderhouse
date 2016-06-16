@@ -1,0 +1,17 @@
+comandos git:
+
+agregar un archivo al repositorio: 
+git add nombre_archivo.html
+
+git commit -m "Hola" (es un summary)
+
+muestra el hisorial
+git log 
+
+muestra los cambios que hay para subir
+git status
+
+
+git pull traemos
+
+git push enviamos
