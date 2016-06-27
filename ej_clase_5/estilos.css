@@ -1,0 +1,87 @@
+/* 2016 06 21 CLASE 5 ESTILOS */
+
+header {
+	color: #EEE;	
+}
+
+body {
+	background-image: url("img/bg.png");
+	background-size: cover; 	 	
+}
+
+.barra {
+	display: inline-block;
+}
+
+ul {
+	display: inline-block;
+
+}
+a {
+	color: #EEE;
+}
+
+li {
+    display: inline-block;   
+}
+/*
+form div {
+	margin: 10px;
+}
+*/
+
+.margin10 {
+	margin: 10px;	
+}
+
+form div p{
+	margin-top: 0px;
+}
+
+input {
+	width: 230px;
+	height: 35px;
+	border: 0px;
+}
+
+#submit_trial {
+	background-color: #ff6666;
+	width: 230px;
+	height: 35px;
+	border: 0px;
+	text-align: center;
+}
+
+
+
+.free {
+	color: #EEE;
+}
+
+.form_padding {
+
+}
+
+.formulario {
+	background-color: #f2f2f2;
+	display: inline-block;
+	width: 250px;
+
+}
+.form_title {
+	background-color: #0d0d0d;
+	width: 250px;
+	text-align: center;
+	/*border-width: 0px;*/
+	/*margin: 0px;*/
+}
+
+.slogan {
+	display: inline-block;
+	width: 400px;
+	color: #EEE;
+}
+
+.bigtext {
+	font-size: 30px;
+}

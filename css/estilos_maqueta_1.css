@@ -1,13 +1,74 @@
 #page {
 	border: 0px;
-	margin: 0px;
-	padding: 0px;
+	/*padding: 10px;*/
 	min-height: 100%;
-    background: #EEE;
-    margin-right: auto; margin-left: auto;
-	height: 800px;
-	width: 900px;
+	/*background-image: url("../img/website-background-2.jpg");*/
+    background: transparent;
+	height: auto;
+	margin-left: 200px;
+    margin-right: 200px;
 
+}
+
+
+
+.icon_search {
+	background-image: url("../img/search-icon-white-one-md.png");
+	background-size: 15px 15px;
+	background-position-x: 15px;
+    background-position-y: center;
+	background-repeat: no-repeat;
+	background-color:  #0099ff;
+	border:0;
+	padding-right: 15px;
+}
+button {
+	height: 55px;
+	width: 90px;
+	text-align: right;
+	font-size: 11px;
+	vertical-align: middle;
+}
+input {
+	width: 400px;
+	padding: 0 0px 0 25px;
+}
+#search_box {
+	height: 55px;
+	border: 0px;
+	margin-right: -10px;
+}
+
+body {
+	background-image: url("../img/website-background-2.jpg");
+}
+
+.main_background {
+	background-image: url("../img/website-background-2.jpg");
+	background-color: black;
+}
+
+#txtlogo {
+	vertical-align: middle;
+}
+
+header div {		
+	float: left;
+}
+
+header ul {
+	position: right;
+	size: auto;
+}
+
+.horizontal_align {
+	/*border-radius: 50px;*/
+	display: inline-block;
+}
+
+.page_regular_font {
+	color: #EEE;
+	font-family: Tahoma, sans-serif;
 }
 
 fieldset {
@@ -25,14 +86,14 @@ img.logo {
 }
 
 header { 
-	background: #CC9900;
+	/*background: #CC9900;*/
 	height: 75px;
 
 }
 
 header #menu {
 	float: left;
-	background: #ccc;
+	/*background: #ccc;*/
 	height: 50px;
 	width: 50px;	
 }
@@ -44,7 +105,7 @@ header h1 {
 
 section.section1
 {
-	background : green;
+	/*background : green;*/
 	height: 350px;
 }
 
@@ -53,7 +114,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    /*background-color: #333;*/
 }
 
 li {

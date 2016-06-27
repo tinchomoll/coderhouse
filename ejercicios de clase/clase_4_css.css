@@ -1,0 +1,41 @@
+/*
+clase 4 16-06
+
+*/
+
+p {...}
+
+div p {...}
+
+#search_box {
+	
+}
+
+
+div.box p {...}
+
+div.box > p {...}
+
+
+/*
+unidades de medida
+
+-- ABSOLUTOS --
+in -> pulgadas
+cm -> centimetros
+mm -> milimetros
+pt -> puntos
+
+-- RELATIVOS -- 
+em -> depende del font-size que tenga asignado el padre mas directo
+ejemplo
+
+<div font-size=20px>
+	<div width=1em> ---> 1em = 20px | 0.5em = 10px
+	</div>
+</div>
+
+
+rem -> igual 
+
+*/
