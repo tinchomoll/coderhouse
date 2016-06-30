@@ -1,9 +1,0 @@
-inline 
-no respeta el width de cada elemento
-va a tratar de mostrar el contenido en una sola linea
-
-block 
-va a respetar el width de la caja, por defecto las va a poner una sobre la otra
-
-inline block
-la combinacion de las dos propiedades

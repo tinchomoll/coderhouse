@@ -1,0 +1,22 @@
+body {
+
+} 
+
+.box {
+float:left;
+margin: 25px;
+height: 200px;
+width: 150px;
+background: blue;
+}
+
+@media screen and (max-width: 420px) {
+.box {
+	background: red;
+	width: 100%;
+	height: 200px;
+	margin: 25px 0;
+
+}
+/**body { background:red; }*/
+}
